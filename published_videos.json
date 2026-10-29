@@ -3006,5 +3006,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-d26287fa-fb03-4194-ac1b-42da75a37839 (3).mp4",
+        "metadata": {
+            "title": "Fresh Glow Makeup for an Active Lifestyle",
+            "description": "You don't need a fancy camera to capture energy \u2014 just light and attention. Try these simple tips today. Like if you love photography! \ud83d\udcf8 #photography #movement #inspiration #livianakingsley",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
